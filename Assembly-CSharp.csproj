@@ -110,6 +110,7 @@
      <Compile Include="Assets\Content\Weapons\Code\BulletComponent.cs" />
      <Compile Include="Assets\AssetsFromAssetsStore\JMO Assets\WarFX\Demo\Assets\WFX_Demo_New.cs" />
      <Compile Include="Assets\Content\Player\Code\Player\TFP\TFPInfo.cs" />
+     <Compile Include="Assets\Content\Radiation\Code\RadiationSystem.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\AssetsFromAssetsStore\JMO Assets\WarFX\Shaders\WFX_S Multiply Soft.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
