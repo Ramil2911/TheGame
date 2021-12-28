@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0e4ba70527f2854abb5feaf3fc06fea, type: 3}
+  m_Name: NoWeapon
+  m_EditorClassIdentifier: 
+  interactableName: NotAnObject
+  description: NotAnObject
+  sprite: {fileID: -2413806693520163455, guid: c86c014e02ebdfd4693d32038135595c, type: 3}
+  interactableInHands: {fileID: 5506191505574929917, guid: 02f19765d86cb0d40b2f49fa00e58eb6, type: 3}
+  isStackable: 0
+  maxAmmoAmount: 0
+  weaponType: 0
+  reloadTime: 0
+  shootingRate: 0
+  bulletSpeed: 0
+  ammoAmount: 0
